@@ -1,2 +1,6 @@
 title: Giovanny Rosales Homepage
 description: If you found this...weird..
+
+remote_theme: Norlin
+plugins:
+  - jekyll-remote-theme
