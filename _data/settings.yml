@@ -1,7 +1,7 @@
 #-------------------------------
 # Site Settings
 title: Norlin
-logo: # You can add own logo. For example '/images/logo.png'.
+logo: '/images/chibi_gio.png' # You can add own logo. For example '/images/logo.png'.
 description: Norlin – A Beautiful Dark Blog Theme for Jekyll.
 
 
